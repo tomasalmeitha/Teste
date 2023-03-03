@@ -1,2 +1,2 @@
 # Comandos de Git
-jbfhbdhfdfdf
+jbfhbdhfdfdfgit stat
